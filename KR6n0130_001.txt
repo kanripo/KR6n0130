@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:58:58.141694
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:56
 #+TITLE: 大乘入道次第開決
 #+PROPERTY: CBETA_ID T85n2823
 #+PROPERTY: ID KR6n0130
